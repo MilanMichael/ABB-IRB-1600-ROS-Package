@@ -1,4 +1,4 @@
-# ABB_IRB_1600_ROS_Package
+# ABB IRB 1600 ROS Package
 Package consist of URDF model of ABB_IRB_1600 and a package for Rviz visualization(Trajectory &amp; PathPlanning Included) for ROS(Indigo)
 
 Package consist of URDF model of ABB_IRB_1600 and a package for Rviz visualization(Trajectory & PathPlanning Included) for ROS(Indigo)

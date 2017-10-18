@@ -3,7 +3,7 @@ Package consist of URDF model of ABB_IRB_1600 and a package for Rviz visualizati
 
 Package consist of URDF model of ABB_IRB_1600 and a package for Rviz visualization(Trajectory & PathPlanning Included) for ROS(Indigo)
 
-How to run :
+How??
 
 1) Clone the package (Yaskawa_ROS_Package) to ROS workspace (catkin_ws/src)
 2) Build your ROS workspace using (catkin_make)

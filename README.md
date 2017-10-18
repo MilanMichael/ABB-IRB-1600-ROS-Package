@@ -9,3 +9,6 @@ How to run :
 2) Build your ROS workspace using (catkin_make)
 3) Run the command "roslaunch abb1600_moveit_config moveit_planning_execution.launch" in your teminal
 4) Enjoy.......:)
+
+
+![alt text](https://github.com/MilanMichael/ABB-IRB-1600-ROS-Package/blob/master/ABB%20IRB%201600.png)
